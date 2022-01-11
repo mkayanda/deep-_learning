@@ -1,7 +1,7 @@
 # deep-_learning
 
-I think everybody should learn deep learning. ..
+Going through Deep Learning with Python by Francois Chollet while taking notes. 
 
 
 
-RESOURCE: Deep Learning with Python 
+RESOURCE: Deep Learning with Python https://www.manning.com/books/deep-learning-with-python-second-edition
